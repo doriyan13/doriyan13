@@ -6,7 +6,7 @@
 - 🌱 I’m looking to learn from everyone 🤣
 - 👯 I’m looking to learn from everyone
 - 🥅 2021 Goals: Deep my knowledge in software-development
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play the guitar & travel
 
 ### Connect with me:
 
@@ -36,24 +36,16 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!-- START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/doriyan13/portfolio-sass/issues/2) in [doriyan13/portfolio-sass](https://github.com/doriyan13/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/doriyan13/portfolio-sass/issues/2) in [doriyan13/portfolio-sass](https://github.com/doriyan13/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/doriyan13/free-developer-resources/pull/11) in [doriyan13/free-developer-resources](https://github.com/doriyan13/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/doriyan13/free-developer-resources/issues/11) in [doriyan13/free-developer-resources](https://github.com/doriyan13/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/doriyan13/free-developer-resources/pull/10) in [doriyan13/free-developer-resources](https://github.com/doriyan13/free-developer-resources)
-<!--END_SECTION:activity -->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doriyan13)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doriyan13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 
+<details>
+  <summary>:zap: GitHub Top Languages</summary>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriyan13)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [course]: https://github.com/doriyan13/learn_module
