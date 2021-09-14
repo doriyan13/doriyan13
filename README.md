@@ -1,6 +1,6 @@
 ### Hi there, I'm Doriyan 👋
 
-## I'm a Gamer, Team player, Developer!
+## I'm a Gamer, Team player & a Developer!
 
 - 🔭 I just launched my first learning module: [Learning Module!][course]!
 - 🌱 I’m looking to learn from everyone 🤣
