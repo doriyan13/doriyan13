@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Top Languages</summary>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriyan13)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriyan13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [course]: https://github.com/doriyan13/learn_module
