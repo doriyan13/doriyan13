@@ -37,14 +37,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/doriyan13/portfolio-sass/issues/2) in [doriyan13/portfolio-sass](https://github.com/doriyan13/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/doriyan13/portfolio-sass/issues/2) in [doriyan13/portfolio-sass](https://github.com/doriyan13/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/doriyan13/free-developer-resources/pull/11) in [doriyan13/free-developer-resources](https://github.com/doriyan13/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/doriyan13/free-developer-resources/issues/11) in [doriyan13/free-developer-resources](https://github.com/doriyan13/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/doriyan13/free-developer-resources/pull/10) in [doriyan13/free-developer-resources](https://github.com/doriyan13/free-developer-resources)
-<!--END_SECTION:activity-->
+  <img align="left" alt = "Doriyan Github Stats" src ="https://github-readme-stats.vercel.app.api?username=doriyan13&show_icons=true&hide_border=true">
 
 </details>
 
