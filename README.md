@@ -3,7 +3,7 @@
 ## I'm a Gamer, Team player & a Developer!
 
 - 🔭 I just launched my first learning module: [Learning Module!][course]
-- 🌱 I’m looking to learn from everyone 🤣
+- 🌱 I’m looking to learn from everyone 
 - 👯 Strong believer in Team-work!
 - 🥅 2021 Goals: To deepen my knowledge in software-development
 - ⚡ Fun fact: I love to play the guitar & travel
