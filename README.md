@@ -1,9 +1,9 @@
 ### Hi there, I'm Doriyan 👋
 
-## I'm a Gamer, Team player & a Developer!
+## I'm a Team player, a Gamer & a Developer!
 
-- 🔭 I just launched my first learning module: [Learning Module!][course]
-- 🌱 I’m looking to learn from everyone 
+- 🔭 I'm always looking to learn new things!
+- 🌱 Strong believer of learning from mistakes 
 - 👯 Strong believer in Team-work!
 - 🥅 2023 Goals: To deepen my knowledge in software-development
 - ⚡ Fun fact: I love to play the guitar & travel
@@ -29,5 +29,4 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriyan13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
-[course]: https://github.com/doriyan13/learn_module
 [linkedin]: https://linkedin.com/in/doriyan-esterin
