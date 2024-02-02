@@ -5,12 +5,8 @@
 - 🔭 I'm always looking to learn new things!
 - 🌱 Strong believer of learning from mistakes 
 - 👯 Strong believer in Team-work!
-- 🥅 2023 Goals: To deepen my knowledge in software-development
+- 🥅 2024 Goals: To deepen my knowledge in software-development
 - ⚡ Fun fact: I love to play the guitar & travel
-
-### Connect with me:
-
-[<img align="left" alt="doriyan13 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 <br />
 
@@ -28,5 +24,3 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doriyan13&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
-[linkedin]: https://linkedin.com/in/doriyan-esterin
