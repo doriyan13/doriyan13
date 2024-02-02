@@ -7,9 +7,6 @@
 - 👯 Strong believer in Team-work!
 - 🥅 2024 Goals: To deepen my knowledge in software-development
 - ⚡ Fun fact: I love to play the guitar & travel
-<br />
-<br />
-
 ---
 
 <details>
